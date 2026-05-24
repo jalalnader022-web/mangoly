@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "fuckminecraftbedrock.aternos.me:23650",
+    "port": 23650,
     "version": "",
     "try-creative": false
   },
